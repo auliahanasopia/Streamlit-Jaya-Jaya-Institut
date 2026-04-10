@@ -57,8 +57,7 @@ Dashboard menampilkan:
 
 ## Menjalankan Sistem Machine Learning
 
-**Link Streamlit App:** [https://your-app.streamlit.app](https://your-app.streamlit.app)  
-_(Ganti dengan link Streamlit Community Cloud kamu)_
+**Link Streamlit App:** https://app-jaya-jaya-institut-yar2c39f4ooyiuxev9kpze.streamlit.app/
 
 ### Cara Menjalankan Lokal
 
