@@ -28,12 +28,16 @@ Sumber Data : https://github.com/dicodingacademy/dicoding_dataset/blob/main/stud
 Set Up Environment :
 1. Buka terminal atau powershell
 2. Jalankan perintah berikut.
+   ```bash
    conda create --name main-ds python=3.9
 3. Aktifkan virtual environment dengan menjalankan perintah berikut.
+   ```bash
    conda activate main-ds
 4. Jalankan perintah berikut pada Terminal/Command Prompt/PowerShell guna memanggil (pull) Docker image untuk menjalankan Metabase.
+   ```bash
    docker pull metabase/metabase:v0.46.4
 5. Apabila proses pembuatan docker image telah selesai, Anda dapat menjalankan image tersebut menggunakan perintah berikut.
+   ```bash
    docker run -p 3000:3000 --name metabase metabase/metabase
 ---
 
